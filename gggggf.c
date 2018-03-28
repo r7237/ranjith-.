@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
+  
 int a,b[20],rem,i=0;
 scanf("%d",&a);
 while(a!=0)
