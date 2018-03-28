@@ -2,7 +2,7 @@ import java.util.*;
 public class swap_even_odd_ch
 {
     public static void main(String args[])
-    {
+     {
         Scanner sc=new Scanner(System.in);
         String s=sc.nextLine();
         String a="";
