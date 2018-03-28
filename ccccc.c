@@ -9,7 +9,7 @@ int main(void){
     	if(i==0){
     		s[i]=s[i]-32;
 		}
-		if(s[i]==' '){
+  		if(s[i]==' '){
 			s[i+1]=s[i+1]-32;
 			for(k=i;k<l;k++){
 				s[k]=s[k+1];
