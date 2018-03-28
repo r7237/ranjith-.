@@ -1,5 +1,5 @@
 import re
-
+  
 pat = r'[a-zA-Z]+'
 n = input()
 
